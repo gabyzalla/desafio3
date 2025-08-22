@@ -1,1 +1,13 @@
-crie um Sistema de notas em java que tenha as medias dos alunos com media de aprovacao
+Quero que você atue como professor de programação e me ajude passo a passo. Estou fazendo um desafio de POO + Lógica em Java chamado Sistema de Notas Escolares.
+
+Regras do desafio:
+1 - Criar uma classe Aluno com propriedades Nome e Lista de Notas.
+2 - Criar uma classe Boletim que calcule a média das notas.
+3 - O sistema deve permitir adicionar notas a um aluno e exibir sua média.
+4 - Extra: exibir se o aluno está “Aprovado” (média ≥ 7) ou “Reprovado”.
+
+Quero que você:
+- Explique passo a passo (detalhado, para eu aprender).
+- Mostre a estrutura das classes e os métodos.
+- Depois me dê o código completo em Java, pronto para rodar no VS Code.
+- No final, ensine como compilar e executar no terminal.
